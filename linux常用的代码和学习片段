@@ -1,0 +1,7 @@
+
+腾讯云 +CentOS +Ngin x+v2ray
+机器：x86 64位
+
+v2的一脚
+
+bash <(curl -L -s https://raw.githubusercontent.com/wulabing/V2Ray_ws-tls_bash_onekey/master/install.sh) | tee v2ray_ins.log
